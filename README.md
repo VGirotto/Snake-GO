@@ -1,1 +1,1 @@
-Simple snake game make for studies of Go language.
+Simple snake game made for studies of Go language.
